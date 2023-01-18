@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ExperimentConsole.TestPSC;
+using System;
 
 namespace ExperimentConsole
 {
@@ -10,6 +7,8 @@ namespace ExperimentConsole
     {
         static void Main(string[] args)
         {
+            OnePunchManShowCaseTest.Execute();
+            Console.ReadLine();
         }
     }
 }
