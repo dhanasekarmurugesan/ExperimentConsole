@@ -47,6 +47,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestPSC\OnePunchManShowCaseTest.cs" />
+    <Compile Include="TestTSC\StringListShowCaseTest.cs" />
+    <Compile Include="TypeShowCase\StringList.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
